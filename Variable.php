@@ -12,6 +12,7 @@
 - Objects
 
 // Special Data Types
-- NULL
+- NULL 
+- Resources 
 */
 
